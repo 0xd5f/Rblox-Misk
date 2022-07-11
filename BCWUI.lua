@@ -70,12 +70,12 @@ local themeStyles = {
         TextColor = Color3.fromRGB(0,0,0),
         ElementColor = Color3.fromRGB(224, 224, 224)
     },
-    BloodTheme = {
-        SchemeColor = Color3.fromRGB(227, 27, 27),
-        Background = Color3.fromRGB(10, 10, 10),
-        Header = Color3.fromRGB(5, 5, 5),
-        TextColor = Color3.fromRGB(255,255,255),
-        ElementColor = Color3.fromRGB(20, 20, 20)
+    BCW = {
+        SchemeColor = Color3.fromRGB(227, 27, 27),-- Цвет фона у Секций
+        Background = Color3.fromRGB(18, 18, 18),-- Цвет фона в правой части UI
+        Header = Color3.fromRGB(5, 5, 5),-- Цвет фона в левой части UI
+        TextColor = Color3.fromRGB(255,255,255),-- Цвет текста
+        ElementColor = Color3.fromRGB(20, 20, 20)-- Цвет фона у кнопок
     },
     GrapeTheme = {
         SchemeColor = Color3.fromRGB(166, 71, 214),
