@@ -74,8 +74,8 @@ local themeStyles = {
         SchemeColor = Color3.fromRGB(25, 137, 254),-- Цвет фона у Секций
         Background = Color3.fromRGB(32, 32, 32),-- Цвет фона в правой части UI
         Header = Color3.fromRGB(18, 18, 18),-- Цвет фона в левой части UI
-        TextColor = Color3.fromRGB(197,197,197),-- Цвет текста
-        ElementColor = Color3.fromRGB(32, 32, 32)-- Цвет фона у кнопок
+        TextColor = Color3.fromRGB(255,255,255),-- Цвет текста
+        ElementColor = Color3.fromRGB(18, 18, 18)-- Цвет фона у кнопок
     },
     GrapeTheme = {
         SchemeColor = Color3.fromRGB(166, 71, 214),
